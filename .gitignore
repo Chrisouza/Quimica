@@ -1,0 +1,5 @@
+#FOLDERs
+__pycache__/
+
+#FILEs
+crawler.py

@@ -1,0 +1,1082 @@
+[
+  {
+    "nome": "hidrog\u00eanio",
+    "simbolo": "H",
+    "numero_atomico": "1",
+    "massa_atomica": "1.008",
+    "configuracao_eletronica": "1s^1",
+    "cor": "#a1d344",
+    "tipo": "n\u00e3o_metais"
+  },
+  {
+    "nome": "h\u00e9lio",
+    "simbolo": "He",
+    "numero_atomico": "2",
+    "massa_atomica": "4.003",
+    "configuracao_eletronica": "1s^2",
+    "cor": "#3d9ee3",
+    "tipo": "gases_nobres"
+  },
+  {
+    "nome": "l\u00edtio",
+    "simbolo": "Li",
+    "numero_atomico": "3",
+    "massa_atomica": "6.941",
+    "configuracao_eletronica": "1s^2 2s^1",
+    "cor": "#f1b200",
+    "tipo": "metais_alcalinos"
+  },
+  {
+    "nome": "ber\u00edlio",
+    "simbolo": "Be",
+    "numero_atomico": "4",
+    "massa_atomica": "9.012",
+    "configuracao_eletronica": "1s^2 2s^2",
+    "cor": "#eada00",
+    "tipo": "metais_alcalino-terrosos"
+  },
+  {
+    "nome": "boro",
+    "simbolo": "B",
+    "numero_atomico": "5",
+    "massa_atomica": "10.811",
+    "configuracao_eletronica": "1s^2 2s^2 2p\u00b9",
+    "cor": "#4db6ac",
+    "tipo": "semimetais"
+  },
+  {
+    "nome": "carbono",
+    "simbolo": "C",
+    "numero_atomico": "6",
+    "massa_atomica": "12.011",
+    "configuracao_eletronica": "1s^2 2s^2 2p\u00b2",
+    "cor": "#a1d344",
+    "tipo": "n\u00e3o_metais"
+  },
+  {
+    "nome": "nitrog\u00eanio",
+    "simbolo": "N",
+    "numero_atomico": "7",
+    "massa_atomica": "14.007",
+    "configuracao_eletronica": "1s^2 2s^2 2p^3",
+    "cor": "#a1d344",
+    "tipo": "n\u00e3o_metais"
+  },
+  {
+    "nome": "oxig\u00eanio",
+    "simbolo": "O",
+    "numero_atomico": "8",
+    "massa_atomica": "15.999",
+    "configuracao_eletronica": "1s^2 2s^2 2p^4",
+    "cor": "#a1d344",
+    "tipo": "n\u00e3o_metais"
+  },
+  {
+    "nome": "fl\u00faor",
+    "simbolo": "F",
+    "numero_atomico": "9",
+    "massa_atomica": "18.998",
+    "configuracao_eletronica": "1s^2 2s^2 2p^5",
+    "cor": "#70cbeb",
+    "tipo": "halog\u00eanios"
+  },
+  {
+    "nome": "ne\u00f4nio",
+    "simbolo": "Ne",
+    "numero_atomico": "10",
+    "massa_atomica": "20.18",
+    "configuracao_eletronica": "1s^2 2s^2 2p^6",
+    "cor": "#3d9ee3",
+    "tipo": "gases_nobres"
+  },
+  {
+    "nome": "s\u00f3dio",
+    "simbolo": "Na",
+    "numero_atomico": "11",
+    "massa_atomica": "22.99",
+    "configuracao_eletronica": "[Ne] 3s^1",
+    "cor": "#f1b200",
+    "tipo": "metais_alcalinos"
+  },
+  {
+    "nome": "magn\u00e9sio",
+    "simbolo": "Mg",
+    "numero_atomico": "12",
+    "massa_atomica": "24.305",
+    "configuracao_eletronica": "[Ne] 3s^2",
+    "cor": "#eada00",
+    "tipo": "metais_alcalino-terrosos"
+  },
+  {
+    "nome": "alum\u00ednio",
+    "simbolo": "Al",
+    "numero_atomico": "13",
+    "massa_atomica": "26.982",
+    "configuracao_eletronica": "[Ne] 3s^2 3p\u00b9",
+    "cor": "#a2c7d3",
+    "tipo": "outros_metais"
+  },
+  {
+    "nome": "sil\u00edcio",
+    "simbolo": "Si",
+    "numero_atomico": "14",
+    "massa_atomica": "28.086",
+    "configuracao_eletronica": "[Ne] 3s^2 3p\u00b2",
+    "cor": "#4db6ac",
+    "tipo": "semimetais"
+  },
+  {
+    "nome": "f\u00f3sforo",
+    "simbolo": "P",
+    "numero_atomico": "15",
+    "massa_atomica": "30.974",
+    "configuracao_eletronica": "[Ne] 3s^2 3p^3",
+    "cor": "#a1d344",
+    "tipo": "n\u00e3o_metais"
+  },
+  {
+    "nome": "enxofre",
+    "simbolo": "S",
+    "numero_atomico": "16",
+    "massa_atomica": "32.065",
+    "configuracao_eletronica": "[Ne] 3s^2 3p^4",
+    "cor": "#a1d344",
+    "tipo": "n\u00e3o_metais"
+  },
+  {
+    "nome": "cloro",
+    "simbolo": "Cl",
+    "numero_atomico": "17",
+    "massa_atomica": "35.453",
+    "configuracao_eletronica": "[Ne] 3s^2 3p^5",
+    "cor": "#70cbeb",
+    "tipo": "halog\u00eanios"
+  },
+  {
+    "nome": "arg\u00f4nio",
+    "simbolo": "Ar",
+    "numero_atomico": "18",
+    "massa_atomica": "39.948",
+    "configuracao_eletronica": "[Ne] 3s^2 3p^6",
+    "cor": "#3d9ee3",
+    "tipo": "gases_nobres"
+  },
+  {
+    "nome": "pot\u00e1ssio",
+    "simbolo": "K",
+    "numero_atomico": "19",
+    "massa_atomica": "39.098",
+    "configuracao_eletronica": "[Ar] 4s^1",
+    "cor": "#f1b200",
+    "tipo": "metais_alcalinos"
+  },
+  {
+    "nome": "c\u00e1lcio",
+    "simbolo": "Ca",
+    "numero_atomico": "20",
+    "massa_atomica": "40.078",
+    "configuracao_eletronica": "[Ar] 4s^2",
+    "cor": "#eada00",
+    "tipo": "metais_alcalino-terrosos"
+  },
+  {
+    "nome": "esc\u00e2ndio",
+    "simbolo": "Sc",
+    "numero_atomico": "21",
+    "massa_atomica": "44.956",
+    "configuracao_eletronica": "[Ar] 3d\u00b9 4s^2",
+    "cor": "#eb8e8e",
+    "tipo": "metais_de_transi\u00e7\u00e3o"
+  },
+  {
+    "nome": "tit\u00e2nio",
+    "simbolo": "Ti",
+    "numero_atomico": "22",
+    "massa_atomica": "47.867",
+    "configuracao_eletronica": "[Ar] 3d\u00b2 4s^2",
+    "cor": "#eb8e8e",
+    "tipo": "metais_de_transi\u00e7\u00e3o"
+  },
+  {
+    "nome": "van\u00e1dio",
+    "simbolo": "V",
+    "numero_atomico": "23",
+    "massa_atomica": "50.942",
+    "configuracao_eletronica": "[Ar] 3d^3 4s^2",
+    "cor": "#eb8e8e",
+    "tipo": "metais_de_transi\u00e7\u00e3o"
+  },
+  {
+    "nome": "cromo",
+    "simbolo": "Cr",
+    "numero_atomico": "24",
+    "massa_atomica": "51.996",
+    "configuracao_eletronica": "[Ar] 3d^5 4s^1",
+    "cor": "#eb8e8e",
+    "tipo": "metais_de_transi\u00e7\u00e3o"
+  },
+  {
+    "nome": "mangan\u00eas",
+    "simbolo": "Mn",
+    "numero_atomico": "25",
+    "massa_atomica": "54.938",
+    "configuracao_eletronica": "[Ar] 3d^5 4s^2",
+    "cor": "#eb8e8e",
+    "tipo": "metais_de_transi\u00e7\u00e3o"
+  },
+  {
+    "nome": "ferro",
+    "simbolo": "Fe",
+    "numero_atomico": "26",
+    "massa_atomica": "55.845",
+    "configuracao_eletronica": "[Ar] 3d^6 4s^2",
+    "cor": "#eb8e8e",
+    "tipo": "metais_de_transi\u00e7\u00e3o"
+  },
+  {
+    "nome": "cobalto",
+    "simbolo": "Co",
+    "numero_atomico": "27",
+    "massa_atomica": "58.933",
+    "configuracao_eletronica": "[Ar] 3d^7 4s^2",
+    "cor": "#eb8e8e",
+    "tipo": "metais_de_transi\u00e7\u00e3o"
+  },
+  {
+    "nome": "n\u00edquel",
+    "simbolo": "Ni",
+    "numero_atomico": "28",
+    "massa_atomica": "58.693",
+    "configuracao_eletronica": "[Ar] 3d^8 4s^2",
+    "cor": "#eb8e8e",
+    "tipo": "metais_de_transi\u00e7\u00e3o"
+  },
+  {
+    "nome": "cobre",
+    "simbolo": "Cu",
+    "numero_atomico": "29",
+    "massa_atomica": "63.546",
+    "configuracao_eletronica": "[Ar] 3d^10 4s^1",
+    "cor": "#eb8e8e",
+    "tipo": "metais_de_transi\u00e7\u00e3o"
+  },
+  {
+    "nome": "zinco",
+    "simbolo": "Zn",
+    "numero_atomico": "30",
+    "massa_atomica": "65.409",
+    "configuracao_eletronica": "[Ar] 3d^10 4s^2",
+    "cor": "#eb8e8e",
+    "tipo": "metais_de_transi\u00e7\u00e3o"
+  },
+  {
+    "nome": "g\u00e1lio",
+    "simbolo": "Ga",
+    "numero_atomico": "31",
+    "massa_atomica": "69.723",
+    "configuracao_eletronica": "[Ar] 3d^10 4s^2 4p\u00b9",
+    "cor": "#a2c7d3",
+    "tipo": "outros_metais"
+  },
+  {
+    "nome": "germ\u00e2nio",
+    "simbolo": "Ge",
+    "numero_atomico": "32",
+    "massa_atomica": "72.64",
+    "configuracao_eletronica": "[Ar] 3d^10 4s^2 4p\u00b2",
+    "cor": "#4db6ac",
+    "tipo": "semimetais"
+  },
+  {
+    "nome": "ars\u00eanio",
+    "simbolo": "As",
+    "numero_atomico": "33",
+    "massa_atomica": "74.922",
+    "configuracao_eletronica": "[Ar] 3d^10 4s^2 4p^3",
+    "cor": "#4db6ac",
+    "tipo": "semimetais"
+  },
+  {
+    "nome": "sel\u00eanio",
+    "simbolo": "Se",
+    "numero_atomico": "34",
+    "massa_atomica": "78.96",
+    "configuracao_eletronica": "[Ar] 3d^10 4s^2 4p^4",
+    "cor": "#a1d344",
+    "tipo": "n\u00e3o_metais"
+  },
+  {
+    "nome": "bromo",
+    "simbolo": "Br",
+    "numero_atomico": "35",
+    "massa_atomica": "79.904",
+    "configuracao_eletronica": "[Ar] 3d^10 4s^2 4p^5",
+    "cor": "#70cbeb",
+    "tipo": "halog\u00eanios"
+  },
+  {
+    "nome": "cript\u00f4nio",
+    "simbolo": "Kr",
+    "numero_atomico": "36",
+    "massa_atomica": "83.798",
+    "configuracao_eletronica": "[Ar] 3d^10 4s^2 4p^6",
+    "cor": "#3d9ee3",
+    "tipo": "gases_nobres"
+  },
+  {
+    "nome": "rub\u00eddio",
+    "simbolo": "Rb",
+    "numero_atomico": "37",
+    "massa_atomica": "85.468",
+    "configuracao_eletronica": "[Kr] 5s^1",
+    "cor": "#f1b200",
+    "tipo": "metais_alcalinos"
+  },
+  {
+    "nome": "estr\u00f4ncio",
+    "simbolo": "Sr",
+    "numero_atomico": "38",
+    "massa_atomica": "87.62",
+    "configuracao_eletronica": "[Kr] 5s^2",
+    "cor": "#eada00",
+    "tipo": "metais_alcalino-terrosos"
+  },
+  {
+    "nome": "\u00edtrio",
+    "simbolo": "Y",
+    "numero_atomico": "39",
+    "massa_atomica": "88.906",
+    "configuracao_eletronica": "[Kr] 4d\u00b9 5s^2",
+    "cor": "#eb8e8e",
+    "tipo": "metais_de_transi\u00e7\u00e3o"
+  },
+  {
+    "nome": "zirc\u00f4nio",
+    "simbolo": "Zr",
+    "numero_atomico": "40",
+    "massa_atomica": "91.224",
+    "configuracao_eletronica": "[Kr] 4d\u00b2 5s^2",
+    "cor": "#eb8e8e",
+    "tipo": "metais_de_transi\u00e7\u00e3o"
+  },
+  {
+    "nome": "ni\u00f3bio",
+    "simbolo": "Nb",
+    "numero_atomico": "41",
+    "massa_atomica": "92.906 38",
+    "configuracao_eletronica": "[Kr] 4d^4 5s^1",
+    "cor": "#eb8e8e",
+    "tipo": "metais_de_transi\u00e7\u00e3o"
+  },
+  {
+    "nome": "molibd\u00eanio",
+    "simbolo": "Mo",
+    "numero_atomico": "42",
+    "massa_atomica": "95.94",
+    "configuracao_eletronica": "[Kr] 4d^5 5s^1",
+    "cor": "#eb8e8e",
+    "tipo": "metais_de_transi\u00e7\u00e3o"
+  },
+  {
+    "nome": "tecn\u00e9cio",
+    "simbolo": "Tc",
+    "numero_atomico": "43",
+    "massa_atomica": "[98]",
+    "configuracao_eletronica": "[Kr] 4d^5 5s^2",
+    "cor": "#eb8e8e",
+    "tipo": "metais_de_transi\u00e7\u00e3o"
+  },
+  {
+    "nome": "rut\u00eanio",
+    "simbolo": "Ru",
+    "numero_atomico": "44",
+    "massa_atomica": "101.07",
+    "configuracao_eletronica": "[Kr] 4d^7 5s^1",
+    "cor": "#eb8e8e",
+    "tipo": "metais_de_transi\u00e7\u00e3o"
+  },
+  {
+    "nome": "r\u00f3dio",
+    "simbolo": "Rh",
+    "numero_atomico": "45",
+    "massa_atomica": "102.905 50",
+    "configuracao_eletronica": "[Kr] 4d^8 5s^1",
+    "cor": "#eb8e8e",
+    "tipo": "metais_de_transi\u00e7\u00e3o"
+  },
+  {
+    "nome": "pal\u00e1dio",
+    "simbolo": "Pd",
+    "numero_atomico": "46",
+    "massa_atomica": "106.42",
+    "configuracao_eletronica": "[Kr] 4d^10 5s^0",
+    "cor": "#eb8e8e",
+    "tipo": "metais_de_transi\u00e7\u00e3o"
+  },
+  {
+    "nome": "prata",
+    "simbolo": "Ag",
+    "numero_atomico": "47",
+    "massa_atomica": "107.868",
+    "configuracao_eletronica": "[Kr] 4d^10 5s^1",
+    "cor": "#eb8e8e",
+    "tipo": "metais_de_transi\u00e7\u00e3o"
+  },
+  {
+    "nome": "c\u00e1dmio",
+    "simbolo": "Cd",
+    "numero_atomico": "48",
+    "massa_atomica": "112.411",
+    "configuracao_eletronica": "[Kr] 4d^10 5s^2",
+    "cor": "#eb8e8e",
+    "tipo": "metais_de_transi\u00e7\u00e3o"
+  },
+  {
+    "nome": "\u00edndio",
+    "simbolo": "In",
+    "numero_atomico": "49",
+    "massa_atomica": "114.818",
+    "configuracao_eletronica": "[Kr] 4d^10 5s^2 5p\u00b9",
+    "cor": "#a2c7d3",
+    "tipo": "outros_metais"
+  },
+  {
+    "nome": "estanho",
+    "simbolo": "Sn",
+    "numero_atomico": "50",
+    "massa_atomica": "118.71",
+    "configuracao_eletronica": "[Kr] 4d^10 5s^2 5p\u00b2",
+    "cor": "#a2c7d3",
+    "tipo": "outros_metais"
+  },
+  {
+    "nome": "antim\u00f4nio",
+    "simbolo": "Sb",
+    "numero_atomico": "51",
+    "massa_atomica": "121.76",
+    "configuracao_eletronica": "[Kr] 4d^10 5s^2 5p^3",
+    "cor": "#4db6ac",
+    "tipo": "semimetais"
+  },
+  {
+    "nome": "tel\u00fario",
+    "simbolo": "Te",
+    "numero_atomico": "52",
+    "massa_atomica": "127.6",
+    "configuracao_eletronica": "[Kr] 4d^10 5s^2 5p^4",
+    "cor": "#4db6ac",
+    "tipo": "semimetais"
+  },
+  {
+    "nome": "iodo",
+    "simbolo": "I",
+    "numero_atomico": "53",
+    "massa_atomica": "126.904 47",
+    "configuracao_eletronica": "[Kr] 4d^10 5s^2 5p^5",
+    "cor": "#70cbeb",
+    "tipo": "halog\u00eanios"
+  },
+  {
+    "nome": "xen\u00f4nio",
+    "simbolo": "Xe",
+    "numero_atomico": "54",
+    "massa_atomica": "131.293",
+    "configuracao_eletronica": "[Kr] 4d^10 5s^2 5p^6",
+    "cor": "#3d9ee3",
+    "tipo": "gases_nobres"
+  },
+  {
+    "nome": "c\u00e9sio",
+    "simbolo": "Cs",
+    "numero_atomico": "55",
+    "massa_atomica": "132.905",
+    "configuracao_eletronica": "[Xe] 6s^1",
+    "cor": "#f1b200",
+    "tipo": "metais_alcalinos"
+  },
+  {
+    "nome": "b\u00e1rio",
+    "simbolo": "Ba",
+    "numero_atomico": "56",
+    "massa_atomica": "137.327",
+    "configuracao_eletronica": "[Xe] 6s^2",
+    "cor": "#eada00",
+    "tipo": "metais_alcalino-terrosos"
+  },
+  {
+    "nome": "",
+    "simbolo": "",
+    "numero_atomico": "57-71",
+    "massa_atomica": "",
+    "configuracao_eletronica": "",
+    "cor": "e_lantanideos-arrows",
+    "tipo": null
+  },
+  {
+    "nome": "h\u00e1fnio",
+    "simbolo": "Hf",
+    "numero_atomico": "72",
+    "massa_atomica": "178.49",
+    "configuracao_eletronica": "[Xe] 4f^14 5d\u00b2 6s^2",
+    "cor": "#eb8e8e",
+    "tipo": "metais_de_transi\u00e7\u00e3o"
+  },
+  {
+    "nome": "t\u00e2ntalo",
+    "simbolo": "Ta",
+    "numero_atomico": "73",
+    "massa_atomica": "180.948",
+    "configuracao_eletronica": "[Xe] 4f^14 5d^3 6s^2",
+    "cor": "#eb8e8e",
+    "tipo": "metais_de_transi\u00e7\u00e3o"
+  },
+  {
+    "nome": "tungst\u00eanio",
+    "simbolo": "W",
+    "numero_atomico": "74",
+    "massa_atomica": "183.84",
+    "configuracao_eletronica": "[Xe] 4f^14 5d^4 6s^2",
+    "cor": "#eb8e8e",
+    "tipo": "metais_de_transi\u00e7\u00e3o"
+  },
+  {
+    "nome": "r\u00eanio",
+    "simbolo": "Re",
+    "numero_atomico": "75",
+    "massa_atomica": "186.207",
+    "configuracao_eletronica": "[Xe] 4f^14 5d^5 6s^2",
+    "cor": "#eb8e8e",
+    "tipo": "metais_de_transi\u00e7\u00e3o"
+  },
+  {
+    "nome": "\u00f3smio",
+    "simbolo": "Os",
+    "numero_atomico": "76",
+    "massa_atomica": "190.23",
+    "configuracao_eletronica": "[Xe] 4f^14 5d^6 6s^2",
+    "cor": "#eb8e8e",
+    "tipo": "metais_de_transi\u00e7\u00e3o"
+  },
+  {
+    "nome": "ir\u00eddio",
+    "simbolo": "Ir",
+    "numero_atomico": "77",
+    "massa_atomica": "192.217",
+    "configuracao_eletronica": "[Xe] 4f^14 5d^7 6s^2",
+    "cor": "#eb8e8e",
+    "tipo": "metais_de_transi\u00e7\u00e3o"
+  },
+  {
+    "nome": "platina",
+    "simbolo": "Pt",
+    "numero_atomico": "78",
+    "massa_atomica": "195.084",
+    "configuracao_eletronica": "[Xe] 4f^14 5d^9 6s^1",
+    "cor": "#eb8e8e",
+    "tipo": "metais_de_transi\u00e7\u00e3o"
+  },
+  {
+    "nome": "ouro",
+    "simbolo": "Au",
+    "numero_atomico": "79",
+    "massa_atomica": "196.967",
+    "configuracao_eletronica": "[Xe] 4f^14 5d^10 6s^1",
+    "cor": "#eb8e8e",
+    "tipo": "metais_de_transi\u00e7\u00e3o"
+  },
+  {
+    "nome": "merc\u00fario",
+    "simbolo": "Hg",
+    "numero_atomico": "80",
+    "massa_atomica": "200.59",
+    "configuracao_eletronica": "[Xe] 4f^14 5d^10 6s^2",
+    "cor": "#eb8e8e",
+    "tipo": "metais_de_transi\u00e7\u00e3o"
+  },
+  {
+    "nome": "t\u00e1lio",
+    "simbolo": "Tl",
+    "numero_atomico": "81",
+    "massa_atomica": "204.383",
+    "configuracao_eletronica": "[Xe] 4f^14 5d^10 6s^2 6p\u00b9",
+    "cor": "#a2c7d3",
+    "tipo": "outros_metais"
+  },
+  {
+    "nome": "chumbo",
+    "simbolo": "Pb",
+    "numero_atomico": "82",
+    "massa_atomica": "207.2",
+    "configuracao_eletronica": "[Xe] 4f^14 5d^10 6s^2 6p\u00b2",
+    "cor": "#a2c7d3",
+    "tipo": "outros_metais"
+  },
+  {
+    "nome": "bismuto",
+    "simbolo": "Bi",
+    "numero_atomico": "83",
+    "massa_atomica": "208.98",
+    "configuracao_eletronica": "[Xe] 4f^14 5d^10 6s^2 6p^3",
+    "cor": "#a2c7d3",
+    "tipo": "outros_metais"
+  },
+  {
+    "nome": "pol\u00f4nio",
+    "simbolo": "Po",
+    "numero_atomico": "84",
+    "massa_atomica": "[210]",
+    "configuracao_eletronica": "[Xe] 4f^14 5d^10 6s^2 6p^4",
+    "cor": "#4db6ac",
+    "tipo": "semimetais"
+  },
+  {
+    "nome": "\u00e1stato",
+    "simbolo": "At",
+    "numero_atomico": "85",
+    "massa_atomica": "[210]",
+    "configuracao_eletronica": "[Xe] 4f^14 5d^10 6s^2 6p^5",
+    "cor": "#70cbeb",
+    "tipo": "halog\u00eanios"
+  },
+  {
+    "nome": "rad\u00f4nio",
+    "simbolo": "Rn",
+    "numero_atomico": "86",
+    "massa_atomica": "[220]",
+    "configuracao_eletronica": "[Xe] 4f^14 5d^10 6s^2 6p^6",
+    "cor": "#3d9ee3",
+    "tipo": "gases_nobres"
+  },
+  {
+    "nome": "fr\u00e2ncio",
+    "simbolo": "Fr",
+    "numero_atomico": "87",
+    "massa_atomica": "[223]",
+    "configuracao_eletronica": "[Rn] 7s^1",
+    "cor": "#f1b200",
+    "tipo": "metais_alcalinos"
+  },
+  {
+    "nome": "r\u00e1dio",
+    "simbolo": "Ra",
+    "numero_atomico": "88",
+    "massa_atomica": "[226]",
+    "configuracao_eletronica": "[Rn] 7s^2",
+    "cor": "#eada00",
+    "tipo": "metais_alcalino-terrosos"
+  },
+  {
+    "nome": "",
+    "simbolo": "",
+    "numero_atomico": "89-103",
+    "massa_atomica": "",
+    "configuracao_eletronica": "",
+    "cor": "e_actinidios-arrows",
+    "tipo": null
+  },
+  {
+    "nome": "rutherf\u00f3rdio",
+    "simbolo": "Rf",
+    "numero_atomico": "104",
+    "massa_atomica": "261",
+    "configuracao_eletronica": "[Rn] 5f^14 6d^2 7s^2",
+    "cor": "#eb8e8e",
+    "tipo": "metais_de_transi\u00e7\u00e3o"
+  },
+  {
+    "nome": "d\u00fabnio",
+    "simbolo": "Db",
+    "numero_atomico": "105",
+    "massa_atomica": "[262]",
+    "configuracao_eletronica": "[Rn] 5f^14 6d^3 7s^2",
+    "cor": "#eb8e8e",
+    "tipo": "metais_de_transi\u00e7\u00e3o"
+  },
+  {
+    "nome": "seab\u00f3rgio",
+    "simbolo": "Sg",
+    "numero_atomico": "106",
+    "massa_atomica": "[266]",
+    "configuracao_eletronica": "[Rn] 5f^14 6d^4 7s^2",
+    "cor": "#eb8e8e",
+    "tipo": "metais_de_transi\u00e7\u00e3o"
+  },
+  {
+    "nome": "b\u00f3hrio",
+    "simbolo": "Bh",
+    "numero_atomico": "107",
+    "massa_atomica": "[264]",
+    "configuracao_eletronica": "[Rn] 5f^14 6d^5 7s^2",
+    "cor": "#eb8e8e",
+    "tipo": "metais_de_transi\u00e7\u00e3o"
+  },
+  {
+    "nome": "h\u00e1ssio",
+    "simbolo": "Hs",
+    "numero_atomico": "108",
+    "massa_atomica": "[277]",
+    "configuracao_eletronica": "[Rn] 5f^14 6d^6 7s^2",
+    "cor": "#eb8e8e",
+    "tipo": "metais_de_transi\u00e7\u00e3o"
+  },
+  {
+    "nome": "meitn\u00e9rio",
+    "simbolo": "Mt",
+    "numero_atomico": "109",
+    "massa_atomica": "[268]",
+    "configuracao_eletronica": "[Rn] 5f^14 6d^7 7s^2",
+    "cor": "#eb8e8e",
+    "tipo": "metais_de_transi\u00e7\u00e3o"
+  },
+  {
+    "nome": "darmst\u00e1dio",
+    "simbolo": "Ds",
+    "numero_atomico": "110",
+    "massa_atomica": "[271]",
+    "configuracao_eletronica": "[Rn] 5f^14 6d^9 7s^1",
+    "cor": "#eb8e8e",
+    "tipo": "metais_de_transi\u00e7\u00e3o"
+  },
+  {
+    "nome": "roentg\u00eanio",
+    "simbolo": "Rg",
+    "numero_atomico": "111",
+    "massa_atomica": "[272]",
+    "configuracao_eletronica": "[Rn] 5f^14 6d^10 7s^1",
+    "cor": "#eb8e8e",
+    "tipo": "metais_de_transi\u00e7\u00e3o"
+  },
+  {
+    "nome": "copern\u00edcio",
+    "simbolo": "Cn",
+    "numero_atomico": "112",
+    "massa_atomica": "[277]",
+    "configuracao_eletronica": "[Rn] 5f^14 6d^10 7s^2",
+    "cor": "#eb8e8e",
+    "tipo": "metais_de_transi\u00e7\u00e3o"
+  },
+  {
+    "nome": "nih\u00f4nio",
+    "simbolo": "Nh",
+    "numero_atomico": "113",
+    "massa_atomica": "[286]",
+    "configuracao_eletronica": "[Rn] 5f^14 6d^10 7s^27p^1",
+    "cor": "#a2c7d3",
+    "tipo": "outros_metais"
+  },
+  {
+    "nome": "fler\u00f3vio",
+    "simbolo": "Fl",
+    "numero_atomico": "114",
+    "massa_atomica": "[289]",
+    "configuracao_eletronica": "[Rn] 5f^14 6d^10 7s^27p^2",
+    "cor": "#a2c7d3",
+    "tipo": "outros_metais"
+  },
+  {
+    "nome": "mosc\u00f3vio",
+    "simbolo": "Mc",
+    "numero_atomico": "115",
+    "massa_atomica": "[288]",
+    "configuracao_eletronica": "[Rn] 5f^14 6d^10 7s^27p^3",
+    "cor": "#a2c7d3",
+    "tipo": "outros_metais"
+  },
+  {
+    "nome": "liverm\u00f3rio",
+    "simbolo": "Lv",
+    "numero_atomico": "116",
+    "massa_atomica": "[293]",
+    "configuracao_eletronica": "[Rn] 5f^14 6d^10 7s^27p^4",
+    "cor": "#a2c7d3",
+    "tipo": "outros_metais"
+  },
+  {
+    "nome": "tenessino",
+    "simbolo": "Ts",
+    "numero_atomico": "117",
+    "massa_atomica": "[294]",
+    "configuracao_eletronica": "[Rn] 5f^14 6d^10 7s^27p^5",
+    "cor": "#70cbeb",
+    "tipo": "halog\u00eanios"
+  },
+  {
+    "nome": "oganess\u00f4nio",
+    "simbolo": "Og",
+    "numero_atomico": "118",
+    "massa_atomica": "[294]",
+    "configuracao_eletronica": "[Rn] 5f^14 6d^10 7s^27p^6",
+    "cor": "#3d9ee3",
+    "tipo": "gases_nobres"
+  },
+  {
+    "nome": "lant\u00e2nio",
+    "simbolo": "La",
+    "numero_atomico": "57",
+    "massa_atomica": "138.905",
+    "configuracao_eletronica": "[Xe] 5d^1 6s^2",
+    "cor": "#90e3e9",
+    "tipo": "lantan\u00eddeos"
+  },
+  {
+    "nome": "c\u00e9rio",
+    "simbolo": "Ce",
+    "numero_atomico": "58",
+    "massa_atomica": "140.116",
+    "configuracao_eletronica": "[Xe] 4f\u00b2 6s^2",
+    "cor": "#90e3e9",
+    "tipo": "lantan\u00eddeos"
+  },
+  {
+    "nome": "praseod\u00edmio",
+    "simbolo": "Pr",
+    "numero_atomico": "59",
+    "massa_atomica": "140.908",
+    "configuracao_eletronica": "[Xe] 4f^3 6s^2",
+    "cor": "#90e3e9",
+    "tipo": "lantan\u00eddeos"
+  },
+  {
+    "nome": "neod\u00edmio",
+    "simbolo": "Nd",
+    "numero_atomico": "60",
+    "massa_atomica": "144.242",
+    "configuracao_eletronica": "[Xe] 4f^4 6s^2",
+    "cor": "#90e3e9",
+    "tipo": "lantan\u00eddeos"
+  },
+  {
+    "nome": "prom\u00e9cio",
+    "simbolo": "Pm",
+    "numero_atomico": "61",
+    "massa_atomica": "[145]",
+    "configuracao_eletronica": "[Xe] 4f^5 6s^2",
+    "cor": "#90e3e9",
+    "tipo": "lantan\u00eddeos"
+  },
+  {
+    "nome": "sam\u00e1rio",
+    "simbolo": "Sm",
+    "numero_atomico": "62",
+    "massa_atomica": "150.36",
+    "configuracao_eletronica": "[Xe] 4f^6 6s^2",
+    "cor": "#90e3e9",
+    "tipo": "lantan\u00eddeos"
+  },
+  {
+    "nome": "eur\u00f3pio",
+    "simbolo": "Eu",
+    "numero_atomico": "63",
+    "massa_atomica": "151.964",
+    "configuracao_eletronica": "[Xe] 4f^7 6s^2",
+    "cor": "#90e3e9",
+    "tipo": "lantan\u00eddeos"
+  },
+  {
+    "nome": "gadol\u00ednio",
+    "simbolo": "Gd",
+    "numero_atomico": "64",
+    "massa_atomica": "157.25",
+    "configuracao_eletronica": "[Xe] 4f^7 5d^1 6s^2",
+    "cor": "#90e3e9",
+    "tipo": "lantan\u00eddeos"
+  },
+  {
+    "nome": "t\u00e9rbio",
+    "simbolo": "Tb",
+    "numero_atomico": "65",
+    "massa_atomica": "158.925",
+    "configuracao_eletronica": "[Xe] 4f^9 6s^2",
+    "cor": "#90e3e9",
+    "tipo": "lantan\u00eddeos"
+  },
+  {
+    "nome": "dispr\u00f3sio",
+    "simbolo": "Dy",
+    "numero_atomico": "66",
+    "massa_atomica": "162.5",
+    "configuracao_eletronica": "[Xe] 4f^10 6s^2",
+    "cor": "#90e3e9",
+    "tipo": "lantan\u00eddeos"
+  },
+  {
+    "nome": "h\u00f3lmio",
+    "simbolo": "Ho",
+    "numero_atomico": "67",
+    "massa_atomica": "164.930 32",
+    "configuracao_eletronica": "[Xe] 4f^11 6s^2",
+    "cor": "#90e3e9",
+    "tipo": "lantan\u00eddeos"
+  },
+  {
+    "nome": "\u00e9rbio",
+    "simbolo": "Er",
+    "numero_atomico": "68",
+    "massa_atomica": "167.259",
+    "configuracao_eletronica": "[Xe] 4f^12 6s^2",
+    "cor": "#90e3e9",
+    "tipo": "lantan\u00eddeos"
+  },
+  {
+    "nome": "t\u00falio",
+    "simbolo": "Tm",
+    "numero_atomico": "69",
+    "massa_atomica": "168.934",
+    "configuracao_eletronica": "[Xe] 4f^13 6s^2",
+    "cor": "#90e3e9",
+    "tipo": "lantan\u00eddeos"
+  },
+  {
+    "nome": "it\u00e9rbio",
+    "simbolo": "Yb",
+    "numero_atomico": "70",
+    "massa_atomica": "173.04",
+    "configuracao_eletronica": "[Xe] 4f^14 6s^2",
+    "cor": "#90e3e9",
+    "tipo": "lantan\u00eddeos"
+  },
+  {
+    "nome": "lut\u00e9cio",
+    "simbolo": "Lu",
+    "numero_atomico": "71",
+    "massa_atomica": "174.967",
+    "configuracao_eletronica": "[Xe] 4f^14 5d\u00b9 6s^2",
+    "cor": "#90e3e9",
+    "tipo": "lantan\u00eddeos"
+  },
+  {
+    "nome": "act\u00ednio",
+    "simbolo": "Ac",
+    "numero_atomico": "89",
+    "massa_atomica": "[227]",
+    "configuracao_eletronica": "[Rn] 6d\u00b9 7s^2",
+    "cor": "#dcadd6",
+    "tipo": "actin\u00eddios"
+  },
+  {
+    "nome": "t\u00f3rio",
+    "simbolo": "Th",
+    "numero_atomico": "90",
+    "massa_atomica": "232.03806",
+    "configuracao_eletronica": "[Rn] 6d\u00b2 7s^2",
+    "cor": "#dcadd6",
+    "tipo": "actin\u00eddios"
+  },
+  {
+    "nome": "protact\u00ednio",
+    "simbolo": "Pa",
+    "numero_atomico": "91",
+    "massa_atomica": "231.03588",
+    "configuracao_eletronica": "[Rn] 5f^2 6d^1 7s^2",
+    "cor": "#dcadd6",
+    "tipo": "actin\u00eddios"
+  },
+  {
+    "nome": "ur\u00e2nio",
+    "simbolo": "U",
+    "numero_atomico": "92",
+    "massa_atomica": "238.02891",
+    "configuracao_eletronica": "[Rn] 5f^3 6d^1 7s^2",
+    "cor": "#dcadd6",
+    "tipo": "actin\u00eddios"
+  },
+  {
+    "nome": "net\u00fanio",
+    "simbolo": "Np",
+    "numero_atomico": "93",
+    "massa_atomica": "[237]",
+    "configuracao_eletronica": "[Rn] 5f^4 6d^1 7s^2",
+    "cor": "#dcadd6",
+    "tipo": "actin\u00eddios"
+  },
+  {
+    "nome": "plut\u00f4nio",
+    "simbolo": "Pu",
+    "numero_atomico": "94",
+    "massa_atomica": "[244]",
+    "configuracao_eletronica": "[Rn] 5f^6 7s^2",
+    "cor": "#dcadd6",
+    "tipo": "actin\u00eddios"
+  },
+  {
+    "nome": "amer\u00edcio",
+    "simbolo": "Am",
+    "numero_atomico": "95",
+    "massa_atomica": "[243]",
+    "configuracao_eletronica": "[Rn] 5f^7 7s^2",
+    "cor": "#dcadd6",
+    "tipo": "actin\u00eddios"
+  },
+  {
+    "nome": "c\u00fario",
+    "simbolo": "Cm",
+    "numero_atomico": "96",
+    "massa_atomica": "[247]",
+    "configuracao_eletronica": "[Rn] 5f^7 6d^1 7s^2",
+    "cor": "#dcadd6",
+    "tipo": "actin\u00eddios"
+  },
+  {
+    "nome": "berqu\u00e9lio",
+    "simbolo": "Bk",
+    "numero_atomico": "97",
+    "massa_atomica": "[247]",
+    "configuracao_eletronica": "[Rn] 5f^9 7s^2",
+    "cor": "#dcadd6",
+    "tipo": "actin\u00eddios"
+  },
+  {
+    "nome": "calif\u00f3rnio",
+    "simbolo": "Cf",
+    "numero_atomico": "98",
+    "massa_atomica": "[251]",
+    "configuracao_eletronica": "[Rn] 5f^10 7s^2",
+    "cor": "#dcadd6",
+    "tipo": "actin\u00eddios"
+  },
+  {
+    "nome": "einst\u00e9nio",
+    "simbolo": "Es",
+    "numero_atomico": "99",
+    "massa_atomica": "[252]",
+    "configuracao_eletronica": "[Rn] 5f^11 7s^2",
+    "cor": "#dcadd6",
+    "tipo": "actin\u00eddios"
+  },
+  {
+    "nome": "f\u00e9rmio",
+    "simbolo": "Fm",
+    "numero_atomico": "100",
+    "massa_atomica": "[257]",
+    "configuracao_eletronica": "[Rn] 5f^12 7s^2",
+    "cor": "#dcadd6",
+    "tipo": "actin\u00eddios"
+  },
+  {
+    "nome": "mendel\u00e9vio",
+    "simbolo": "Md",
+    "numero_atomico": "101",
+    "massa_atomica": "[258]",
+    "configuracao_eletronica": "[Rn] 5f^13 7s^2",
+    "cor": "#dcadd6",
+    "tipo": "actin\u00eddios"
+  },
+  {
+    "nome": "nob\u00e9lio",
+    "simbolo": "No",
+    "numero_atomico": "102",
+    "massa_atomica": "[259]",
+    "configuracao_eletronica": "[Rn] 5f^14 7s^2",
+    "cor": "#dcadd6",
+    "tipo": "actin\u00eddios"
+  },
+  {
+    "nome": "laur\u00eancio",
+    "simbolo": "Lr",
+    "numero_atomico": "103",
+    "massa_atomica": "[262]",
+    "configuracao_eletronica": "[Rn] 5f^14 7s^2 7p^1",
+    "cor": "#dcadd6",
+    "tipo": "actin\u00eddios"
+  }
+]
